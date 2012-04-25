@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<dataset>
-    <CAR ID="1" CONSTRUCTOR="Renault" MODEL="Laguna" FUEL="OIL" COLOR="BLACK" BUILDDATE="2006-03-12 10:22:20.0"/>
-    <CAR ID="2" CONSTRUCTOR="Peugeot" MODEL="407" FUEL="OIL" COLOR="GREY" BUILDDATE="2005-07-17 10:22:20.0"/>
-</dataset>
